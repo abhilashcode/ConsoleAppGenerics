@@ -69,6 +69,7 @@ namespace ConsoleAppGenerics
             ds.AddElement(0, 1);
             int a= ds.GetElement(0);
            // Console.Write("Its a : {0}",a);
+           // Console.Write("Its a : {0}",a);
         }
     }
 }
