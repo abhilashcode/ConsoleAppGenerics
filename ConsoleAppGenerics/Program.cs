@@ -26,7 +26,7 @@ namespace ConsoleAppGenerics
         }
         public static void getCount()
         {
-            Console.WriteLine(list.Count);
+          //  Console.WriteLine(list.Count);
         }
         
         public static void getCount11()
