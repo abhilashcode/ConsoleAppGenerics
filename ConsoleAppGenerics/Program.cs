@@ -21,7 +21,8 @@ namespace ConsoleAppGenerics
         static List<T> list = new List<T>();        
         public static void AddList(T _list)
         {
-            list.Add(_list);
+           // list.Add(_list);
+           // list.Add(_list);
         }
         public static void getCount()
         {
