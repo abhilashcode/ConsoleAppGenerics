@@ -26,12 +26,12 @@ namespace ConsoleAppGenerics
         }
         public static void getCount()
         {
-            Console.WriteLine(list.Count);
+          //  Console.WriteLine(list.Count);
         }
         
         public static void getCount11()
         {
-            Console.WriteLine(list.Count);
+           // Console.WriteLine(list.Count);
         }
     } 
 
@@ -68,7 +68,9 @@ namespace ConsoleAppGenerics
 
             ds.AddElement(0, 1);
             int a= ds.GetElement(0);
-            Console.Write("Its a : {0}",a);
+           // Console.Write("Its a : {0}",a);
+           // Console.Write("Its a : {0}",a);
+           // Console.Write("Its a : {0}11",a);
         }
     }
 }
