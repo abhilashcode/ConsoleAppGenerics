@@ -28,6 +28,11 @@ namespace ConsoleAppGenerics
         {
             Console.WriteLine(list.Count);
         }
+        
+        public static void getCount11()
+        {
+            //Console.WriteLine(list.Count);
+        }
     } 
 
     class DataStore<T>
