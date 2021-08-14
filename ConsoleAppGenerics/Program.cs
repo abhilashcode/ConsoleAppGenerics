@@ -13,10 +13,7 @@ namespace ConsoleAppGenerics
     }
     class Add<T>
     {
-        public T a1;
-        public T a2;
-
-      
+       
     }
     class Vehicle<T>
     {
